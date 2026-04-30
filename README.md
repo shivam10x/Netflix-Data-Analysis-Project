@@ -83,22 +83,6 @@ Key columns:
 
 ---
 
-## 📁 Project Structure
-
-Netflix-Data-Analysis/
-│
-├── data/
-│   └── netflix_titles.csv
-│
-├── notebook/
-│   └── netflix_analysis.ipynb
-│
-├── images/
-│   └── visualizations.png
-│
-└── README.md
-
----
 
 ## ▶️ How to Run
 
@@ -126,6 +110,7 @@ Contributions are welcome! Feel free to fork the repository and improve it.
 ## 📧 Contact
 
 GitHub: shivam10x
+
 Email: upadhyayshivam3268@gmai.com
 
 ---
@@ -135,5 +120,3 @@ Email: upadhyayshivam3268@gmai.com
 If you found this project helpful, give it a star on GitHub!
 
 ---
-
-If you want, I can also make a **very short (5–6 line) README for quick projects** or a **premium-level portfolio README with badges & visuals**.
